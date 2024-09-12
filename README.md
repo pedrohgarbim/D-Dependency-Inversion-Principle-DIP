@@ -25,3 +25,5 @@ No projeto que implementa o DIP:
 - **Baixo acoplamento**: Módulos de alto nível não dependem mais diretamente de detalhes de implementação. 🔗
 - **Flexibilidade**: Podemos trocar a implementação de `IReport` facilmente, por exemplo, para gerar relatórios em Excel 🗂️ em vez de PDF, sem modificar o código de `ReportGenerator`. 🚀
 - **Facilidade de manutenção**: O sistema se torna mais fácil de modificar e manter, já que as dependências são claras e controladas. 🛠️
+## Estrutura do Projeto
+![image](https://github.com/user-attachments/assets/89bb2fba-9192-4982-a01f-f3608a47d0cc)
