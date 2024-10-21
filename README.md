@@ -1,5 +1,5 @@
 # 🧩 Dependency Inversion Principle (DIP) 
-![image](https://github.com/user-attachments/assets/669c466d-5dd1-43a7-8986-f54e6d2134c4)
+![image](https://github.com/user-attachments/assets/669c466d-5dd1-43a7-8986-f54e6d2134c4) 
 
 
 ## O que é o DIP?
